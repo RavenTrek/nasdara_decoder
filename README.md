@@ -1,6 +1,6 @@
 # RavenTrek Nasdara Bunker Decoder
 
-Webový pomocník pro **DayZ na mapě Nasdara**, který převádí rádiové vysílání v morseovce na souřadnice a PINy bunkrů. Signál můžeš zadávat ručně, načíst ze zvukového souboru nebo zachytit mikrofonem.
+Webový pomocník pro **DayZ na mapě Nasdara**, který převádí rádiové vysílání v morseovce na souřadnice a PINy bunkrů. Signál můžeš zadávat ručně, načíst ze zvukového souboru nebo zachytit mikrofonem. Aplikace je stále ve vývoji.
 
 ![RavenTrek Nasdara Bunker Decoder – představení aplikace](thumbnail-bunker-decoder.png)
 
